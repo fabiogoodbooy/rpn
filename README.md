@@ -11,3 +11,5 @@
 
 5- pour charger liste des operations :
 * php bin/console doctrine:fixtures:load --append
+ ## URL SWAGER
+ 127.0.0.1:8000/api/doc
